@@ -19,4 +19,4 @@ Die PDF wird in Ihren Dateien gespeichert, und Sie können sie direkt teilen.
 
 ## Datenschutzerklärung
 
-Unsere Datenschutzerklärung finden Sie [hier](https://waffledunker.github.io/eigenbeleg_privacy_policy/privacy).
+Unsere Datenschutzerklärung finden Sie [hier](https://waffledunker.github.io/pdf_beleg_erstellen_ios/privacy).
